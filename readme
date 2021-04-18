@@ -1,0 +1,22 @@
+Basic TypeScript proj
+
+1.
+install parcel for converting TypeScript file into js
+npm install -g parcel-bundler
+
+2.
+install faker to generate random data
+npm i faker
+
+3.
+install DefinitelyTyped for running javascript nodemodule
+npm install @types/faker
+
+4.import google map form google api console
+i. create new google project from google developer console
+ii. enable maps javascript api via apiservice -> library
+iii. produce credential key and import it to html file
+
+5. run the file with 
+parcel index.html
+
